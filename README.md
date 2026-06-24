@@ -34,6 +34,30 @@ https://woodendot-landing.vercel.app
 
 ---
 
+### 0.1 Developer Blog ✅
+
+**Completed:** June 2026
+
+**Skills practiced:**
+- Semantic HTML
+- CSS Architecture
+- BEM Methodology
+- Flexbox
+- Responsive Design
+- Multi-page Layout
+- Adaptive Design
+- Reusable Components
+- Git & GitHub
+- Vercel Deployment
+
+**GitHub Repository:**
+https://github.com/KamDiaV/developer-blog
+
+**Live Demo:**
+https://developer-blog-mu.vercel.app
+
+---
+
 ## Progress
 
 ### Stage 0 — HTML & CSS Foundations
@@ -41,7 +65,7 @@ https://woodendot-landing.vercel.app
 Goal: 10 / 10 projects
 
 * [x] 0.0 Woodendot Landing
-* [ ] 0.1 Project
+* [x] 0.1 Developer Blog
 * [ ] 0.2 Project
 * [ ] 0.3 Project
 * [ ] 0.4 Project
@@ -51,7 +75,7 @@ Goal: 10 / 10 projects
 * [ ] 0.8 Project
 * [ ] 0.9 Project
 
-Progress: **1 / 10**
+Progress: **2 / 10**
 
 ---
 
