@@ -58,6 +58,31 @@ https://developer-blog-mu.vercel.app
 
 ---
 
+### 0.2 Stir Landing ✅
+
+**Completed:** July 2026
+
+**Skills practiced:**
+- Semantic HTML
+- CSS Architecture
+- BEM Methodology
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Adaptive Design
+- Section-Based CSS Structure
+- Complex Landing Page Layout
+- Git & GitHub
+- Vercel Deployment
+
+**GitHub Repository:**
+https://github.com/KamDiaV/stir-landing
+
+**Live Demo:**
+https://stir-landing.vercel.app
+
+---
+
 ## Progress
 
 ### Stage 0 — HTML & CSS Foundations
@@ -66,7 +91,7 @@ Goal: 10 / 10 projects
 
 * [x] 0.0 Woodendot Landing
 * [x] 0.1 Developer Blog
-* [ ] 0.2 Project
+* [x] 0.2 Stir Landing
 * [ ] 0.3 Project
 * [ ] 0.4 Project
 * [ ] 0.5 Project
@@ -75,7 +100,7 @@ Goal: 10 / 10 projects
 * [ ] 0.8 Project
 * [ ] 0.9 Project
 
-Progress: **2 / 10**
+Progress: **3 / 10**
 
 ---
 
