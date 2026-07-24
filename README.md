@@ -20,8 +20,6 @@ My long-term roadmap to becoming a frontend systems engineer.
 
 ### Stage 0 — Web Foundations (HTML & CSS)
 
-### Skills
-
 #### HTML & CSS
 - [x] Semantic HTML
 - [x] CSS Fundamentals
@@ -38,7 +36,7 @@ My long-term roadmap to becoming a frontend systems engineer.
 - [x] Vercel
 - [ ] AI-assisted Development
 
-### Projects (3 / 5)
+#### Projects (3 / 5)
 * [x] 0.0 Woodendot Landing
 * [x] 0.1 Developer Blog
 * [x] 0.2 Stir Landing
