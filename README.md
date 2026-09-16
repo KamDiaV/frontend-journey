@@ -37,7 +37,7 @@ My long-term roadmap to becoming a frontend systems engineer.
 - [ ] AI-assisted Development
 
 #### Theory & Interview Preparation
-- [ ] [HTML Fundamentals — 11 / 150 Questions](./theory/html.md)
+- [ ] [HTML Fundamentals — 6 / 100 Questions](./theory/html.md)
 - [ ] CSS Fundamentals
 - [ ] SCSS Fundamentals
 
