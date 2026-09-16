@@ -26,7 +26,7 @@ My long-term roadmap to becoming a frontend systems engineer.
 - [x] Flexbox
 - [x] CSS Grid
 - [x] Responsive Design
-- [ ] SCSS
+- [x] SCSS
 - [ ] Accessibility (WCAG & ARIA)
 
 #### Workflow
@@ -36,18 +36,16 @@ My long-term roadmap to becoming a frontend systems engineer.
 - [x] Vercel
 - [ ] AI-assisted Development
 
-#### Projects (3 / 5)
+#### Projects (4 / 5)
 * [x] 0.0 Woodendot Landing
 * [x] 0.1 Developer Blog
 * [x] 0.2 Stir Landing
-* [ ] 0.3 Project
+* [x] 0.3 Jewelry Store
 * [ ] 0.4 Project
 
 ---
 
 ### Stage 1 — JavaScript Fundamentals
-
-Goal: 5 / 5 projects
 
 * [ ] Interactive Landing Page
 * [ ] Image Slider
@@ -61,8 +59,6 @@ Progress: **0 / 5**
 
 ### Stage 2 — React Fundamentals
 
-Goal: 5 / 5 projects
-
 * [ ] React Landing Page
 * [ ] Movie Search App
 * [ ] Notes App
@@ -75,8 +71,6 @@ Progress: **0 / 5**
 
 ### Stage 3 — React Ecosystem
 
-Goal: 5 / 5 projects
-
 * [ ] TypeScript App
 * [ ] API Integration Project
 * [ ] Authentication Project
@@ -88,8 +82,6 @@ Progress: **0 / 5**
 ---
 
 ### Stage 4 — Job Ready Portfolio
-
-Goal: 3 / 3 projects
 
 * [ ] Portfolio Website
 * [ ] Full Featured React Application
@@ -135,7 +127,6 @@ https://woodendot-landing.vercel.app
 - Flexbox
 - Responsive Design
 - Multi-page Layout
-- Adaptive Design
 - Reusable Components
 - Git & GitHub
 - Vercel Deployment
@@ -159,7 +150,6 @@ https://developer-blog-mu.vercel.app
 - Flexbox
 - CSS Grid
 - Responsive Design
-- Adaptive Design
 - Section-Based CSS Structure
 - Complex Landing Page Layout
 - Git & GitHub
@@ -170,3 +160,29 @@ https://github.com/KamDiaV/stir-landing
 
 **Live Demo:**
 https://stir-landing.vercel.app
+
+---
+
+### 0.3 Jewelry Store ✅
+
+**Completed:** September 2026
+
+**Skills practiced:**
+- Semantic HTML
+- SCSS Architecture
+- BEM Methodology
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Multi-page Layout
+- Reusable Components
+- SCSS Variables and Mixins
+- Blog and Article Layouts
+- Git & GitHub
+- Vercel Deployment
+
+**GitHub Repository:**
+https://github.com/KamDiaV/jewelry-store
+
+**Live Demo:**
+https://jewelry-store-flame-nine.vercel.app/
