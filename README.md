@@ -36,6 +36,11 @@ My long-term roadmap to becoming a frontend systems engineer.
 - [x] Vercel
 - [ ] AI-assisted Development
 
+#### Theory & Interview Preparation
+- [ ] [HTML Fundamentals — 11 / 150 Questions](./theory/html.md)
+- [ ] CSS Fundamentals
+- [ ] SCSS Fundamentals
+
 #### Projects (4 / 5)
 * [x] 0.0 Woodendot Landing
 * [x] 0.1 Developer Blog
