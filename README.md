@@ -1,4 +1,4 @@
-# Frontend Systems Engineering Journey 1.0 
+# Frontend Systems Engineering Journey 2.0 
 
 My long-term roadmap to becoming a frontend systems engineer.
 
