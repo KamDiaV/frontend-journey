@@ -2,20 +2,6 @@
 
 My long-term roadmap to becoming a frontend systems engineer.
 
-## Goals
-- Build a strong foundation in web technologies
-- Learn to design and build reliable web applications
-- Understand modern frontend architecture
-- Learn to work effectively with AI as an engineering tool
-- Build production-quality portfolio projects
-- Become a Frontend Systems Engineer
-
-## Milestones
-- Complete 5 HTML/CSS projects
-- Complete 5 JavaScript projects
-- Complete 5 React projects
-- Build 3 production-quality applications
-
 ---
 
 ### Stage 0 — Web Foundations (HTML & CSS)
