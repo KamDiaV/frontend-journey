@@ -38,18 +38,13 @@ My long-term roadmap to becoming a frontend systems engineer.
 
 #### Theory & Interview Preparation
 
-##### HTML — 13 / 100 Questions
+- [ ]  HTML — 13 / 100 Questions
+- [База — 13 / 13](./theory/html/base.md)
+- [Структура HTML-документа — 0 / 15](./theory/html/document-structure.md)
 
-- [x] [База — 13 / 13](./theory/html/base.md)
-- [ ] [Структура HTML-документа — 0 / 15](./theory/html/document-structure.md)
+- [ ] CSS
 
-##### CSS
-
-- [ ] CSS Fundamentals
-
-##### SCSS
-
-- [ ] SCSS Fundamentals
+- [ ] SCSS
 
 #### Projects (4 / 5)
 * [x] 0.0 Woodendot Landing
