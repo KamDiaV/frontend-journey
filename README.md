@@ -27,7 +27,7 @@ My long-term roadmap to becoming a frontend systems engineer.
 - [ ]  HTML — 13 / 100 Questions
 - [База — 13 / 13](./theory/html/base.md)
 - [Структура HTML-документа — 0 / 15](./theory/html/document-structure.md)
-- [Формы — 3 / 16](./theory/html/forms.md)
+- [Формы — 14 / 14](./theory/html/forms.md)
 
 - [ ] CSS
 
